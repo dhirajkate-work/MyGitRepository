@@ -6,7 +6,7 @@ class HelloGit{
 
 		System.out.println("hello git");
 		sysout("GIT");
-	
+		public void showDate(){}
 		}
 
 }
