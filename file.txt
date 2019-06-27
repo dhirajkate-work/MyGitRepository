@@ -9,6 +9,10 @@ class HelloGit{
 		public void showDate(){
 
 			}
+
+		void myBigMethod(){
+		sysout("new bigmethod");
+			}
 	public static void main(String str[]){
 
 		HelloGit obj = new HelloGit();
